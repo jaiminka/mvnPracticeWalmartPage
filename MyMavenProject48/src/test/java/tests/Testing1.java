@@ -19,7 +19,7 @@ public class Testing1 {
 	//even to get data from excel we can by making one string but in the last we have to make data provider.
   @Test
   public void test1() {
-	  System.out.println("test1");
+	  
   }
   @Test
   public void test2() {
